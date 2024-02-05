@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,13 +13,13 @@
         <div class="contenedor contenido-header">
             <div class="barra">
                 <a href="/bienesraices/index.php">
-                    <img src="build/img/logo.svg" alt="logotico de bienes raices">
+                    <img src="/bienesraices/build/img/logo.svg" alt="logotico de bienes raices">
                 </a>
                 <div class="mobile-menu">
-                    <img src="build/img/barras.svg" alt="icono menu responsive">
+                    <img src="/bienesraices/build/img/barras.svg" alt="icono menu responsive">
                 </div>
                 <div class="derecha">
-                    <img class="dark-mode-boton" src="build/img/dark-mode.svg">
+                    <img class="dark-mode-boton" src="/bienesraices/build/img/dark-mode.svg">
                     <nav class="navegacion">
                         <a href="nosotros.php">Nosotros</a>
                         <a href="anuncios.php">Anuncios</a>
